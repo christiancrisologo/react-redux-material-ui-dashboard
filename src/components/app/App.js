@@ -5,7 +5,7 @@ import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import Header from '../header/Header'
 import SideNav from '../sidenav/SideNav'
-
+// I added this
 // import '../styles/styles.scss';
 
 const muiTheme = getMuiTheme({
